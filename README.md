@@ -1,5 +1,5 @@
 
-### Hi 👋, I'm Emre
+### Hi 👋
 #### A Computer Engineer lives in Turkey !
 
 
