@@ -5,27 +5,40 @@
 
 - 🔭  I’m currently developing nodejs projects
 
-### Connect with me:
-[<img align="left" alt="emre-solmaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/saitemresolmaz)
-[<img align="left" alt="emre-solmaz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/emresolmaz)
-<br />
-<br />
+<br>
+
+ ### Connect with me:
+<br>
+<!-- Social icons section -->
+  <p align="left">
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/emresolmaz/" target="_blank"><img alt="Linkedin"src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white">
+        </a>
+	 <!-- Twitter -->
+        <a href="https://twitter.com/saitemresolmaz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white">
+	<!-- Gmail -->
+        <a href="mailto:emre.solmaz106@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335&logo=Gmail&logoColor=white">
+    </p>
+<br/>
 
 ---
 ### You can find Languages and Tools in this Account and much more!
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<p>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+    <a href="#"><img alt="Java" src ="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>  
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="#"><img alt ="PostgreSql" src ="https://img.shields.io/badge/-PostgreSQL-white?logo=postgresql">  
+</p>
 
 <br />
 <br />
 
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitemresolmaz&show_icons=true&locale=en&layout=compact" alt="saitemresolmaz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saitemresolmaz&show_icons=true&locale=en" alt="saitemresolmaz" width="43.5%" /></p><br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saitemresolmaz&show_icons=true&locale=en" alt="saitemresolmaz" width="27%" /></p><br />
 <br />
 	
