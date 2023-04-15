@@ -3,7 +3,7 @@
 #### A Computer Engineer lives in Turkey !
 
 
-- 🔭  I’m currently developing nodejs projects
+- 🔭  I’m currently developing java projects
 
 <br>
 
