@@ -15,7 +15,7 @@
         <a href="https://www.linkedin.com/in/emresolmaz/" target="_blank"><img alt="Linkedin"src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white">
         </a>
 	 <!-- Twitter -->
-        <a href="https://twitter.com/saitemresolmaz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white">
+        <a href="https://twitter.com/0emresolmaz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white">
 	<!-- Gmail -->
         <a href="mailto:emre.solmaz106@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335&logo=Gmail&logoColor=white">
     </p>
